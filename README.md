@@ -1,6 +1,6 @@
 # test-rep
 
-This is just a practice repo to become more familiar with using GitHub
+This is just a practice repository(repo) to become more familiar with using GitHub
 
 ## How to Use this Repo
 
